@@ -1,4 +1,4 @@
-package hw20;
+package ppsimulation;
 
 public class Ant extends Critter {
 
