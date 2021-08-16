@@ -1,12 +1,8 @@
 /*
- * Name: Jaydee Sereewit
- * Class: CPTR241
- * Assignment: Final Project 
- * Date: March 15, 2018
  * Description: This program is a GUI predator(doodlebug) and pray(ant) simulation.
  * Result: This program works as expected 
  */
-package hw20;
+package ppsimulation;
 
 import javax.swing.*;
 import java.awt.event.*;
