@@ -1,4 +1,4 @@
-package hw20;
+package ppsimulation;
 
 public class Doodlebug extends Critter{
 	private int stepsWithoutAnts;
